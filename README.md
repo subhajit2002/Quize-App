@@ -59,3 +59,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 Contact
 If you have any questions or feedback, please feel free to contact me at [aubhajitmaitykhirai@gmail.com].
 
+![Screenshot 2024-05-24 121846](https://github.com/subhajit2002/Quize-App/assets/113613387/b9ba1698-d13e-49f3-a688-64d9f9fda879)
+
+![Screenshot 2024-05-24 121939](https://github.com/subhajit2002/Quize-App/assets/113613387/9bc2ceaa-0b2b-42df-aecd-1a290e2fc0aa)
+
